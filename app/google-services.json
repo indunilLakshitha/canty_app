@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "31154743041",
+    "firebase_url": "https://cantyapp-a3d23.firebaseio.com",
+    "project_id": "cantyapp-a3d23",
+    "storage_bucket": "cantyapp-a3d23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31154743041:android:30999b8a3f6811588f9d00",
+        "android_client_info": {
+          "package_name": "com.af.canty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "31154743041-ptfein47r011qaiboopb9gal42o79jb1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.af.canty",
+            "certificate_hash": "dcb8d01d74c9833479bbf59507696999f42eb832"
+          }
+        },
+        {
+          "client_id": "31154743041-18lc47seh25l93l372246d85kvn779rv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAY6LjJ149UJSQQqPe2gvVkNxXlN0F6HAA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "31154743041-18lc47seh25l93l372246d85kvn779rv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
